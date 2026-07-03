@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Thayla Medeiros - Harmonizacao Facial",
+  "description": "Landing page premium focada na conversao para agendamento de harmonizacao facial com a Dra. Thayla Medeiros em Belo Horizonte - BH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
